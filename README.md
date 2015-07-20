@@ -11,4 +11,6 @@ kernel. In addition, kernel engineers employ a variety of hueristics in
 their debugging. Yavan will try to enshrine as many such hueristics in
 code, as I can
 
+Usage:
 
+yavan.pl /path/to/debuginfo/vmlinux /path/to/vmcore
